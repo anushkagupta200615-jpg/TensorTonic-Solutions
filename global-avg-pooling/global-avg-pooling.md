@@ -27,6 +27,7 @@ Each channel $c$ produces one output value: the average of its $H \times W$ spat
 **Input feature map:** Shape (2, 3, 3) - 2 channels, 3x3 spatial
 
 Channel 0:
+
 $$
 \begin{bmatrix}
 1 & 2 & 3 \\
@@ -36,6 +37,7 @@ $$
 $$
 
 Channel 1:
+
 $$
 \begin{bmatrix}
 9 & 8 & 7 \\
